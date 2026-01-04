@@ -9,7 +9,7 @@ Official implementation of **"Transformer-Driven Beam Control for Reconfigurable
 
 ## Dataset
 
-The dataset used for training and evaluating our model is included in this repository. See the `data/` directory for details.
+The dataset used for training and evaluating our model is included in this repository. See the `data/` directory for details of trajcetory dataset and '2D Radiation Pattern/' for radiation pattern used.
 
 ## Citation
 

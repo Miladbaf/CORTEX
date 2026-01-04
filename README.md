@@ -15,10 +15,10 @@ The dataset used for training and evaluating our model is included in this repos
 
 If you use this dataset or code, please cite our paper:
 ```bibtex
-@article{bafandeh2025cortex,
+@article{usta2025cortex,
   title={Transformer-Driven Beam Control for Reconfigurable Antenna Arrays in Terahertz UAV Communications},
-  author={Bafandeh, Milad and [Co-authors]},
-  journal={[Journal/Conference]},
+  author={Usta, Mahir Burak and Bafarassat, Milad and Erdem, Mikail and Gurbuz, Ozgur and Saeed, Akhtar and Tokgoz, Korkut Kaan and Qaraqe, Khalid},
+  journal={Under Review},
   year={2025}
 }
 ```

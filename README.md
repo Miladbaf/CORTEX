@@ -29,4 +29,4 @@ For questions, please contact us or open an issue.
 
 ## License
 
-[MIT License / CC BY 4.0 for dataset]
+MIT License

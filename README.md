@@ -1,6 +1,6 @@
 # CORTEX
 
-Official implementation of **"Transformer-Driven Beam Control for Reconfigurable Antenna Arrays in Terahertz UAV Communications"**
+Official implementation of **"Transformer-Driven Beam Control via Reconfigurable Antenna Arrays for Terahertz UAV Communications"**
 
 ## Status
 

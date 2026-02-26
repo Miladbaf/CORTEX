@@ -1,6 +1,6 @@
 # CORTEX
 
-Official implementation of **"Transformer-Driven Beam Control via Reconfigurable Antenna Arrays for Terahertz UAV Communications"**
+Official implementation of **"Transformer-Driven Beam Control via Reconfigurable Antenna Arrays for Terahertz UAV Communications"** published in IEEE Open Journal of the Communications Society.
 
 ## Status
 
@@ -11,6 +11,10 @@ Official implementation of **"Transformer-Driven Beam Control via Reconfigurable
 
 The dataset used for training and evaluating our model is included in this repository. See the `data/` directory for details of the trajectory dataset and `2D Radiation Pattern/` for the radiation patterns used.
 
+## Code
+
+The code used to train Stage I and II of the CORTEX is also included, see `code/` for the details.
+
 ## Citation
 
 If you use this dataset or code, please cite our paper:
@@ -18,7 +22,7 @@ If you use this dataset or code, please cite our paper:
 @article{usta2025cortex,
   title={Transformer-Driven Beam Control for Reconfigurable Antenna Arrays in Terahertz UAV Communications},
   author={Usta, Mahir Burak and Bafarassat, Milad and Erdem, Mikail and Gurbuz, Ozgur and Saeed, Akhtar and Tokgoz, Korkut Kaan and Qaraqe, Khalid},
-  journal={Under Review},
+  journal=IEEE Open Journal of the Communications Society,
   year={2026}
 }
 ```

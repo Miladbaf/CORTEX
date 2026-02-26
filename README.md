@@ -20,10 +20,12 @@ The code used to train Stage I and II of the CORTEX is also included after publi
 If you use this dataset or code, please cite our paper:
 ```bibtex
 @article{usta2026cortex,
-  title={Transformer-Driven Beam Control for Reconfigurable Antenna Arrays in Terahertz UAV Communications},
-  author={Usta, Mahir Burak and Bafarassat, Milad and Erdem, Mikail and Gurbuz, Ozgur and Saeed, Akhtar and Tokgoz, Korkut Kaan and Qaraqe, Khalid},
-  journal=IEEE Open Journal of the Communications Society,
-  year={2026}
+  author  = {Usta, Mahir Burak and Bafarassat, Milad and Erdem, Mikail and
+             Gurbuz, Ozgur and Saeed, Akhtar and Tokgoz, Korkut Kaan and Qaraqe, Khalid},
+  title   = {Transformer-Driven Beam Control via Reconfigurable Antenna Arrays
+             for Terahertz {UAV} Communications},
+  journal = {IEEE Open Journal of the Communications Society},
+  year    = {2026},
 }
 ```
 

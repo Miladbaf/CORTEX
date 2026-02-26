@@ -1,6 +1,6 @@
 # CORTEX
 
-Official implementation of **"Transformer-Driven Beam Control via Reconfigurable Antenna Arrays for Terahertz UAV Communications"** published in IEEE Open Journal of the Communications Society.
+Official dataset and code release for “Transformer-Driven Beam Control via Reconfigurable Antenna Arrays for Terahertz UAV Communications” (IEEE Open Journal of the Communications Society).
 
 ## Status
 

@@ -5,7 +5,7 @@ Official dataset and code release for “Transformer-Driven Beam Control via Rec
 ## Status
 
 🟢 **Dataset:** Available in this repository  
-🟡 **Code:** Will be released upon publication
+🟢 **Code:** Made available in this repository after publication
 
 ## Dataset
 

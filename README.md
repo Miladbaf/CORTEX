@@ -13,13 +13,13 @@ The dataset used for training and evaluating our model is included in this repos
 
 ## Code
 
-The code used to train Stage I and II of the CORTEX is also included, see `code/` for the details.
+The code used to train Stage I and II of the CORTEX is also included after publication confirmation, see `code/` for the details.
 
 ## Citation
 
 If you use this dataset or code, please cite our paper:
 ```bibtex
-@article{usta2025cortex,
+@article{usta2026cortex,
   title={Transformer-Driven Beam Control for Reconfigurable Antenna Arrays in Terahertz UAV Communications},
   author={Usta, Mahir Burak and Bafarassat, Milad and Erdem, Mikail and Gurbuz, Ozgur and Saeed, Akhtar and Tokgoz, Korkut Kaan and Qaraqe, Khalid},
   journal=IEEE Open Journal of the Communications Society,
